@@ -1,0 +1,104 @@
+<!DOCTYPE >
+
+<html>
+<head>
+<title>VISUAL
+</title>
+
+<b><p align="center"><font color="#FFFFFF" size="7px">
+<img src="img/historiasblanco.png"width="150" height="80"></img>
+CONTROL VISUAL
+<img src="img/mariblanco.png"width="80" height="80"></img>
+</font></p>
+<style type="text/css">
+
+body {margin:0; padding:0; background:#000033;}
+
+#slidebox{position:relative; border:1px solid #ccc; margin:40px auto;overflow:hidden;}
+
+#slidebox, #slidebox ul {width:700px;height:540px;}
+
+#slidebox, #slidebox ul li{width:700px;height:540px;}
+
+#slidebox ul li{position:relative; left:0; background:#eee; float:left;list-style: none; padding:15px 28px;  font-family:Verdana, Geneva, sans-serif; font-size:13px;}
+
+#slidebox .next, #slidebox .previous{position:absolute; z-index:2; display:block; width:21px; height:21px;top:139px;}
+
+#slidebox .next{right:0; margin-right:10px; background:url(slidebox_next.png) no-repeat left top;}
+
+#slidebox .next:hover{background:url(slidebox_next_hover.png) no-repeat left top;}
+
+#slidebox .previous{margin-left:10px; background:url(slidebox_previous.png) no-repeat left top;}
+
+#slidebox .previous:hover{background:url(slidebox_previous_hover.png) no-repeat left top;}
+
+#slidebox .thumbs{position:absolute; z-index:2; bottom:10px; right:10px;}
+
+#slidebox .thumbs a{display:block; margin-left:5px; float:left; font-family:Verdana, Geneva, sans-serif; font-size:9px; text-decoration:none; padding:2px 4px; background:url(slidebox_thumb.png); color:#fff;}
+#slidebox .thumbs a:hover{background:#fff; color:#000;}
+#slidebox .thumbs .thumbActive{background:#fff; color:#000; display:block; margin-left:5px; float:left; font-family:Verdana, Geneva, sans-serif; font-size:9px; text-decoration:none; padding:2px 4px;}
+</style>
+
+<script src="jquery-1.5.2.min.js" type="text/javascript"></script>
+<script src="jcarousellite_1.0.1c5.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+$(function() {
+	$("#slidebox").jCarouselLite({
+		vertical: false,
+		hoverPause:true,
+		btnPrev: ".previous",
+		btnNext: ".next",
+		visible: 1,
+		start: 0,
+		scroll: 1,
+		
+		
+		circular: true,
+		auto:15000,
+		speed:500,				
+		btnGo:
+		    [".1", ".2",
+		    ".3", ".4",".5"],
+		
+		afterEnd: function(a, to, btnGo) {
+				if(btnGo.length <= to){
+					to = 0;
+				}
+				$(".thumbActive").removeClass("thumbActive");
+				$(btnGo[to]).addClass("thumbActive");
+		    }
+	});
+});
+</script>
+</head>
+<body >
+<!--Imagen de cabecera style="margin: 50px 50px 50px 50px;float:left" -->
+<div id="slidebox">
+<div class="next"></div>
+<div class="previous"></div>
+<div class="thumbs">
+<!--<a href="#" onClick="" class="1 thumbActive"></a> 
+<a href="#" onClick="" class="2"></a> 
+<a href="#" onClick="" class="3 "></a> 
+<a href="#" onClick="" class="4"></a> 
+<a href="#" onClick="" class="4"></a>-->
+</div>
+	<ul>
+    	<li><img src="img/Des1.PNG"align="center" width="700" height="500"href="#" onClick="" class="1 thumbActive"></li>
+    	<li><img src="img/Des2.PNG"align="center" width="700" height="500"></li>
+    	<li><img src="img/Des3.PNG"align="center" width="700" height="500"></li>
+    	<li><img src="img/EETE1.PNG"align="center" width="700" height="500"></li>
+		<li><img src="img/EETE2.PNG"align="center" width="700" height="500"></li>
+		<li><img src="img/EETE3.PNG"align="center" width="700" height="500"></li>
+		<li><img src="img/Calidad1.PNG" align="center" width="700" height="500"></li>
+		<li><img src="img/Calidad2.PNG"align="center" width="700" height="500"></li>
+		<li><img src="img/Calidad3.PNG"align="center" width="700" height="500"></li>
+		<li><img src="img/Disponibilidad1.PNG"align="center" width="700" height="500"></li>
+		<li><img src="img/Disponibilidad2.PNG"align="center" width="700" height="500"></li>
+		<li><img src="img/Disponibilidad3.PNG"align="center" width="700" height="500"></li>
+	</ul>
+</div>
+
+ </body>
+ </html>

@@ -1,0 +1,205 @@
+*{ 
+margin:0;
+padding: 0;
+}
+
+@font-face{
+	font-family: "Arial"; /* Establece la fuente o tipo de letra */
+	font-weight: normal; /*   */
+	font-style: normal;  /*   */
+}
+body {
+	
+	color:black;  /* Color de la letra  */
+	font-family: "Calibril"; /* Establece la fuente o tipo de letra */
+	
+	
+}
+h1{
+/*font-family:Blackadder ITC;*/
+	font-family:Brush Script MT;
+	color:red; /* Color de la letra  */
+	margin:0.27em auto; /* Separación del margen  */
+	text-align: center; /* Alineación del texto al centro en h1  */
+	/*text-shadow:100em #FFF000;*/
+	font-size: 2.6em; /* Tamaño de la letra  */
+}
+h4{
+/*font-family:Blackadder ITC;*/
+	font-family:Brush Script MT;
+	color:black; /* Color de la letra  */
+	margin:0.27em auto; /* Separación del margen  */
+	text-align: center; /* Alineación del texto al centro en h1  */
+	/*text-shadow:100em #FFF000;*/
+	font-size: 2.5em; /* Tamaño de la letra  */
+}
+
+header{
+    background-image: url("../Imagenes/header1.jpg");
+    border-radius: 2em;
+    max-width: 69.5%;
+    text-align: left;
+    margin: 1em auto;
+	text-shadow:;
+}
+
+
+footer{
+	background:white;  /* Fondo color  */
+	border-radius: 2em;/* Permite redondear los elementos  */
+	margin: 1em auto; /* Separación del margen  */
+	max-width: 860px; /* Define el Ancho máximo */
+	padding:0.25em; /* Propiedad que establece la anchura de algunas o todas las zonas de relleno de los elementos*/
+	text-align: center;
+	font-size: 2.5em;
+        color:white;
+}
+section#contenedor {
+	margin: 0.5em auto;
+	max-width: 1000px;
+	padding:0em;
+	text-align: center;
+}
+section#Principal{
+	background:silver;
+	border-radius: 0.5em;
+	display: inline-block; /* Permite establecer el tipo de caja que el navegador empleará para visualizar un elemento */
+	margin: 0.5em auto;
+	max-width: 960px;
+	min-height:200px;   /* Establece la altura mínima de los elementos de bloque medida, porcentaje, inherit*/
+	padding:0.25em;
+	text-align: center;
+	vertical-align: top; /* Controla el posicionamiento vertical de los elementos en línea contenidos en otro elemento */
+	width: 50%;
+}
+aside{
+        /*background-image: url("../Imagenes/fondomenu1.jpg");*/
+	background-color: rgba(165,175,174,0.43);
+	border-radius: 1em;
+	display: inline-block; /* Permite establecer el tipo de caja que el navegador empleará para visualizar un elemento */
+	margin: 0.5em auto;
+	max-width: 960px;
+	min-height:250px;   /* Establece la altura mínima de los elementos de bloque medida, porcentaje, inherit*/
+	padding:0.25em;    /* Ancho del Aside */
+	text-align: justify;
+	vertical-align: top;  /*Controla el posicionamiento vertical de los elementos en línea contenidos en otro elemento */
+        color: white;
+	width: 50%;
+}
+section#Principal{
+font-size: 0.75em;
+}
+
+article{
+	background: silver;
+	border-radius: 1em;
+	min-height:280px;
+        max-width: 960px;
+        text-align: justify;
+	padding:0.25em;
+    width: 80%;
+	
+}
+
+aside{
+	max-width: 20%;  /* Establece la anchura de los elementos de bloque  */
+        padding:0.25px 2px;    /* Primer valor Altura del aside , segundo Ancho del aside */
+        
+        margin-right: 1.5%;    /* Separación a la derecha */
+        margin-left: 1.5%;    /* Separación a la izquierda */
+        
+}
+
+.asidecontacto{
+         background-color: rgba(165,175,174,0.43);
+	max-width: 28%;  /* Establece la anchura de los elementos de bloque  */
+           /* Primer valor Altura del aside , segundo Ancho del aside */
+        margin-right: 2.5%;    /* Separación a la derecha */
+        
+       
+        
+}
+footer{
+font-size:0.80em;
+background-image: url("../Imagenes/footer3.jpg");
+}
+
+.seccionprincipal{
+        font-family:Verdana;
+        font-size: 0.75em;
+	background:silver;
+	border-radius: 0.5em;
+	display: inline-block; /* Permite establecer el tipo de caja que el navegador empleará para visualizar un elemento */
+	margin: 0.5em auto;
+	max-width: 620px;
+	min-height:500px;   /* Establece la altura mínima de los elementos de bloque medida, porcentaje, inherit*/
+	padding:0.25em;
+	text-align: center;
+	vertical-align: top; /* Controla el posicionamiento vertical de los elementos en línea contenidos en otro elemento */
+	
+}
+
+
+.nav {       /* Fondo del NAV  */
+        background-image: url("../Imagenes/botonera1.jpg");
+	width:800px; /*Le establecemos un ancho*/
+	margin:0 auto; /*Centramos automaticamente*/
+	font-size:1.65em;
+	height:50px;
+}
+
+ul, ol {
+	list-style:none;
+}
+.nav > li {    /* Lista primera que despliega la segunda */
+	float:left;
+        margin-right: 2%;    /* Separación a la derecha */
+}
+.nav li a {   /* Configuración de los "a" texto del nav */
+	background-color:write;
+	color:#fff;
+	text-decoration:none;
+	padding:10px 11px;
+	display:block;
+	border-radius:20px;
+
+}
+
+.nav li a:hover {
+	/* background-color:silver;  color fondo lista desplegable*/
+         background-image: url("../Imagenes/fondomenu1.jpg");
+	display:block;
+}
+
+.nav li ul {      /* Sublista de la Sublista */
+	display:none;
+	position:absolute;
+	min-width:140px;
+       
+}
+
+.nav li:hover > ul {
+	display:block;
+}
+
+.nav li ul li {
+	position:relative;
+}
+
+.nav li ul li ul {
+	right:-140px;
+	top:0px;
+}
+nav #nave{
+	background-color:white;
+	
+	height:300px;
+        
+}
+li{
+	padding:10px;
+}
+#distancia{
+	padding:1px;
+	font-size:0.78em;
+}

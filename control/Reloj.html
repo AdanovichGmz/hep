@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<title>
+			TIEMPO 
+		</title>
+		<meta charset = "utf-8"/>
+		<meta name="description" content="Sitio Oficial"/>
+		<meta name="viewport" content="width=device-width,initial-scale=1"/>
+		<link rel="shortcut icon" type="image/x-icon" href="icon.ico"/>
+		<link rel="stylesheet" href="css/plantilla.css"/>
+	</head>
+	
+	<body Background="img/Fondo4.jpg">
+			<b> <p align="center"><font color="#0101DF" size="20">TIEMPO ESTIMADO</font></b> 
+			<header>
+			<!--Botones-->
+    <div class="footer" align="center">
+      <img src="img/play.ico" width="200" height="200"  value="Empezar" name="empieza" href="#" id="botonClock" onclick="pauseClock();"/>
+	  <img src="img/pause.png" width="200" height="200" value="Parar" name="para" href="#" id="botonClock" onclick="pauseClock();" />
+      <img src="img/regreso.png" width="200" height="200" value="Reiniciar" name="reinicia" href="#" onclick="resetClock();" />
+      <img src="img/guardar.png" width="200" height="200" value="Guardar" name="guardar" href="#" onclick="saveClock();"/>
+    </div>
+
+			</header>
+			<nav>
+			 <body onload="initClock()">
+			
+			</nav>
+			<script language="JavaScript">
+			var InicTime;
+var ActualTime;
+var nombreExp;
+var AuxTime=new Date();
+var Old=new Date();
+Old.setTime(0);
+Old.setHours(0,0,0,0);
+var run = false;
+var Hours = 0, Minutes = 0,Seconds =0,Milliseconds=0;
+ 
+function showClock( )
+{
+    if(run)
+    {
+        ActualTime = new Date();
+        AuxTime.setHours(0,0,0);
+        AuxTime.setTime(ActualTime.getTime() - InicTime.getTime() + Old.getTime());
+        Seconds = (AuxTime.getSeconds());
+        Minutes = (AuxTime.getMinutes());
+        Hours = (AuxTime.getHours());
+ 
+        document.getElementById("Hours").innerHTML = Hours;
+        document.getElementById("Minutes").innerHTML = Minutes;
+        document.getElementById("Seconds").innerHTML =  Seconds;
+ 
+        setTimeout("showClock()", 50);
+    }
+}
+ 
+function pauseClock( )
+{
+    if(!run)
+    {
+        run = true;
+        document.getElementById("botonClock").innerHTML='Pausar';
+        InicTime = new Date();
+        ActualTime = InicTime;
+        showClock();
+    }
+    else
+    {
+        run = false;
+        document.getElementById("botonClock").innerHTML= 'Continuar';
+        saveOld();
+    }
+}
+ 
+function resetClock()
+{
+    if(run){
+        run = false;
+    }
+ 
+    Hours = 0;
+    Minutes = 0;
+    Seconds = 0;
+    Old.setTime(0);
+    Old.setHours(0,0,0,0);
+ 
+    document.getElementById("Hours").innerHTML = '0';
+    document.getElementById("Minutes").innerHTML = '0';
+    document.getElementById("Seconds").innerHTML = '0';
+    document.getElementById("botonClock").innerHTML = 'Iniciar ';
+}
+ 
+function saveOld()
+{
+    Old.setTime(ActualTime.getTime() - InicTime.getTime()+ Old.getTime());
+    Hours=0;
+    Minutes=0;
+    Seconds=0;
+}
+ 
+function saveClock()
+{
+ 
+}
+ 
+function initClock()
+{
+    time = InicTime = new Date();
+    document.getElementById("Hours").innerHTML = '0';
+    document.getElementById("Minutes").innerHTML = '0';
+    document.getElementById("Seconds").innerHTML = '0';
+    document.getElementById("botonClock").innerHTML = 'Iniciar ';
+}
+</script>
+			<section id="contenedor">
+				<section id="Principal">
+	
+					<article>
+		<!--Contadores del reloj-->
+    <div class="countdown">
+        <div class="number">
+            <span id="Hours"/>
+        </div>
+        <div class="number">
+            <span id="Minutes"/>
+        </div>
+        <div class="number">
+            <span id="Seconds"/>
+        </div>                   
+					</article>
+				</section>
+				<aside>
+		        
+				</aside>
+			</section>
+			<footer>
+		
+			</footer>
+			
+	</body>
+</html>
+
+			

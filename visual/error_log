@@ -1,0 +1,507 @@
+[05-Sep-2016 10:06:48 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:06:48 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 46
+[05-Sep-2016 10:13:27 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:13:27 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 46
+[05-Sep-2016 10:13:29 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:13:29 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 46
+[05-Sep-2016 10:13:30 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:13:30 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 46
+[05-Sep-2016 10:13:30 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:13:30 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 46
+[05-Sep-2016 10:13:32 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:13:32 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 46
+[05-Sep-2016 10:14:46 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:14:46 America/Mexico_City] PHP Notice:  Undefined variable: enlace in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 23
+[05-Sep-2016 10:17:28 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[05-Sep-2016 10:19:12 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[05-Sep-2016 10:19:19 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:19:19 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:21:00 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:21:00 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:21:00 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 46
+[05-Sep-2016 10:24:10 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:24:10 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:25:51 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:13 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:27:57 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: numlista in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 50
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 54
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:28:06 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 61
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:29:33 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 10:37:18 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:37:18 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:37:18 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:37:18 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:37:18 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:37:18 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:37:18 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:37:18 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:55 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:38:55 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:38:55 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:55 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:55 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:55 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:55 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:55 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:58 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:38:58 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:38:58 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:58 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:58 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:58 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:58 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:38:58 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:51:24 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:51:24 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:51:24 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:51:24 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:51:24 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:51:24 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:51:24 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:51:24 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:37 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:53:37 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:53:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:37 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:37 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:37 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:38 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:53:38 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:53:38 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:38 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:38 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:38 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:38 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:53:38 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:14 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:55:14 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:55:14 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:14 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:14 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:14 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:14 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:14 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:26 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 10:55:26 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 10:55:26 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:26 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:26 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:26 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:26 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 10:55:26 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 62
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:01:47 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:03:37 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:09 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:06:52 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:15:17 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:27:33 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:28:58 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:29:16 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 58
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:30:17 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 60
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 65
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 65
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 65
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 65
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 63
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 65
+[05-Sep-2016 11:32:37 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 65
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 64
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 66
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 66
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 64
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 66
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 66
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 64
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Notice:  Undefined index: archivo in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 66
+[05-Sep-2016 11:34:11 America/Mexico_City] PHP Notice:  Undefined index: Tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 66
+[05-Sep-2016 11:35:27 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:35:27 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:36:54 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 20
+[05-Sep-2016 11:36:54 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/archivostienda.php on line 22
+[05-Sep-2016 11:37:50 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 11:37:50 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 22
+[05-Sep-2016 11:38:47 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 11:38:47 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 22
+[05-Sep-2016 11:40:22 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 11:40:22 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 22
+[05-Sep-2016 11:40:59 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 11:40:59 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 22
+[05-Sep-2016 11:42:04 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 11:42:04 America/Mexico_City] PHP Notice:  Undefined index: tienda in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 22
+[05-Sep-2016 11:44:01 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:14:21 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:16:43 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:17:41 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:33:05 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:34:19 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:35:07 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:40:39 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:40:45 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:40:56 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:55:34 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:56:50 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:57:40 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:58:10 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 14:58:33 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:00:37 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:01:09 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:01:11 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:01:12 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:01:13 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:01:59 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:02:22 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:03:07 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:04:00 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:07:25 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:09:01 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:10:19 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 15:14:52 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 16:35:33 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 17:17:39 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 17:17:41 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[05-Sep-2016 17:18:00 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[05-Sep-2016 17:18:04 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[05-Sep-2016 17:18:41 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[05-Sep-2016 17:20:01 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[05-Sep-2016 17:49:06 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[05-Sep-2016 17:49:08 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[05-Sep-2016 18:23:24 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[05-Sep-2016 18:34:00 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[09-Sep-2016 18:46:26 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 12:10:43 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 13:48:16 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 13:49:07 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 13:59:13 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 14:00:54 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 14:00:56 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 14:02:36 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 14:05:06 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 14:05:54 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 14:06:26 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 14:06:41 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 14:06:42 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 15:42:54 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 15:43:33 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 15:43:35 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 15:48:11 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 15:48:22 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 15:48:42 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 15:48:48 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 15:49:29 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 15:59:54 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 15:59:54 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 15:59:54 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 15:59:54 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 15:59:54 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 15:59:54 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 15:59:54 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:00:55 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:00:55 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:00:55 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:00:55 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:00:55 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:00:55 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:00:55 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:01:45 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:01:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:01:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:01:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:01:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:01:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:01:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:06:45 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:06:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:06:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:06:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:06:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:06:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:06:45 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 83
+[12-Sep-2016 16:08:27 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:08:27 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:08:27 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:08:27 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:08:27 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:08:27 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:08:27 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:08 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:09:08 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:08 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:08 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:08 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:08 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:08 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:35 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:09:35 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:35 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:35 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:35 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:35 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:09:35 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:11:13 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:11:13 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:11:13 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:11:13 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:11:13 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:11:13 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:11:13 America/Mexico_City] PHP Notice:  Undefined index: proc18 in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 85
+[12-Sep-2016 16:18:24 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[12-Sep-2016 16:23:06 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:24:03 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:24:07 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:24:30 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:26:09 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:26:34 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:26:36 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:26:37 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:26:38 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:27:02 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:28:48 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:32:41 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:33:18 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:34:21 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:35:22 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:36:37 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:37:50 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:38:53 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:39:27 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:40:31 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:43:24 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:43:53 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:44:34 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:44:57 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:44:58 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:46:28 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:47:25 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:47:26 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:48:43 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:49:16 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:49:49 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:50:12 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:51:43 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 16:52:25 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:04:51 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:07:03 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:07:08 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:07:47 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:18:39 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:18:42 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:18:43 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:18:44 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:18:54 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:19:33 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:19:56 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:20:43 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:20:44 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:22:25 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:22:49 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[12-Sep-2016 17:59:53 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[03-Oct-2016 15:01:02 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[03-Oct-2016 15:02:40 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[03-Oct-2016 15:02:46 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[03-Oct-2016 15:02:48 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[03-Oct-2016 15:02:50 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[03-Oct-2016 15:02:56 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[03-Oct-2016 17:35:00 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[04-Oct-2016 10:21:23 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[04-Oct-2016 10:23:19 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[04-Oct-2016 10:26:14 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[04-Oct-2016 12:01:54 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[06-Oct-2016 10:14:27 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[06-Oct-2016 10:18:11 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[06-Oct-2016 12:48:30 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[10-Oct-2016 16:12:46 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[26-Oct-2016 11:06:57 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[26-Oct-2016 11:06:58 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 77
+[26-Oct-2016 11:13:17 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[26-Oct-2016 11:13:17 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 77
+[26-Oct-2016 11:14:12 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[26-Oct-2016 11:14:12 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 77
+[26-Oct-2016 11:20:25 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[26-Oct-2016 11:20:25 America/Mexico_City] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 77
+[12-Dec-2016 15:56:52 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[12-Dec-2016 15:57:00 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[23-Dec-2016 13:51:17 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[27-Dec-2016 11:03:11 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[27-Dec-2016 17:12:46 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[16-Jan-2017 17:01:47 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[25-Jan-2017 17:51:41 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[25-Jan-2017 17:51:55 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[25-Jan-2017 17:52:01 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[25-Jan-2017 18:12:56 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[13-Mar-2017 17:22:14 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[18-May-2017 10:28:56 America/Mexico_City] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[14-Aug-2017 16:27:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/conexion.php on line 9
+[14-Aug-2017 16:27:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[15-Sep-2017 15:14:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20
+[15-Sep-2017 15:16:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/cajasdec/public_html/henpapel.com/visual/mostrar.php on line 20

@@ -1,0 +1,64 @@
+<html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<style type="text/css">
+#apDiv1 {
+	position: absolute;
+	width: 207px;
+	height: 84px;
+	z-index: 1;
+	left: 21px;
+	top: 2057px;
+}
+.blanco {
+	color: #FFF;
+}
+.BLANCO {
+	color: #FFF;
+}
+</style>
+<title> HEP </title>
+	<meta charset="utf-8"/>
+	<meta name ="description" content ="No aplicable"/>
+    
+</head>
+
+<body>
+	<h1><img src="logo.png" width="343" height="147"/></h1>
+	<h1><center>Enviar Archivos</center></h1>
+    <hr size="5"/>
+
+    
+	 <h2><center>Datos para enviar</center></h2>
+<p>     
+<form action ="guardalista.php"method="post" enctype="multipart/form-data">
+NodeOrden: <input type="text" name="titulo"/>
+</br>
+</br>
+Categoria:   <input list="categoria" name="categoria">
+  <datalist id="categoria">
+    <option value="Calculo">
+	<option value="Cotizacion">
+	<option value="ODC">
+	<option value="ODT">
+	<option value="Otro">
+    
+  </datalist>
+ </br>
+
+  
+ </br> 
+  </br> 
+Archivo: <input type="file" name="foto"/>
+ </br>
+ </br>
+ <input type= "submit" value="Enviar"/ align="middle">
+ </br>
+ 
+</form>
+  </p>
+
+ 
+</body>
+</html>

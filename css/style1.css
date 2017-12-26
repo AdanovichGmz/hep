@@ -1,0 +1,49 @@
+body{
+	background:#FFF;
+}
+#ima1{
+	width:280px;
+	height:120px;
+	margin-left:10px;
+	margin-top:10px;
+}
+ul{
+	font-size:30px;
+}
+label{
+	color:#FFF;
+	background:#002D62;
+	margin-left:200px;
+	font-size:45px;
+}
+#logo{
+	background:#002d62;
+	width:100%;
+	height:140px;
+}
+h6{
+	background:#002d62;
+	margin-left:400px;
+}
+footer{
+	background:#002d62;
+	color:#FFF;
+	font-size:38px;
+	height:50px;
+}
+@media (max-width:500px) {
+	#ima1{
+		width:90%;
+		height:150px;
+		margin-left:10px;
+	}
+	h1{
+		color:#002D62;
+		margin-left:80px;
+		font-size:20px;
+	}
+	label{
+		margin-left:90px;
+		font-size:18px;
+	}
+}

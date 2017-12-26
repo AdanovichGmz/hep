@@ -1,0 +1,254 @@
+*{ 
+margin:0;
+padding: 0;
+}
+@font-face{
+	font-family: "Arial";
+	font-weight: normal;
+	font-style: normal;
+}
+body {
+	background:#000033;
+	color:purple;
+	font-family: "Chalet",Helvetica, Verdana;
+	
+	
+}
+h1{
+	color:purple;
+	margin:0.25em auto;
+	text-align: center;
+	text-shadow: 5px 5px 10px rgba(255,255,255,0.5);
+	font-size: 2em;
+}
+header,footer{
+	background:#000033;
+	border-radius: 0.5em;
+	margin: 0.45em auto;
+	max-width:1000px;
+	padding:0.1em;
+	text-align: center;
+	font-size: 1.5em;
+}
+/*nav{
+    background:white;
+	border-radius:5px;
+	margin:0.1em auto;
+	max-width:800px;
+	padding:20px;
+	text-align:right;
+	font-size:20px;/*redondear*/
+
+}
+section#contenedor {
+	margin: 0.5em auto;
+	max-width: 960px;
+	padding:0em;
+	text-align: center;
+}
+section#Principal, aside{
+	background:#000033;
+	border-radius: 0.5em;
+	display: inline-block;
+	margin: 0.5em auto;
+	max-width: 960px;
+	min-height:200px;
+	padding:0.25em;
+	text-align: center;
+	vertical-align: top;
+	width: 65%;
+}
+section#Principal{
+font-size: 0.75em;
+}
+
+article{
+	background:#000033;
+	border-radius: 0.5em;
+	min-height:140px;
+	padding:0.25em;
+	
+}
+
+aside{
+	width: 30%;
+	background:white;
+}
+footer{
+font-size:0.75em;
+}
+.countdown 
+{
+    height: 100px;
+    margin: 300px;
+    width: 310px;
+}
+ 
+.number
+{
+    background:black.countdown 
+{
+    height: 1000px;
+    margin: 3000px;
+    width: 3100px;
+}
+ 
+.number
+{
+    background: #000033; 
+    background: -moz-linear-gradient(top, black 0%, 	#FFCCFF 100%); 
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,black), color-stop(100%,#A00000)); 
+    border-radius: 15px;
+    -moz-border-radius: 15px;
+    line-height: 100px;
+    color:#fff;
+    position: relative;
+    font-size: 30px;
+    font-weight:bold;
+    height:100px;
+    width:100px;
+    margin: 5px;
+    -webkit-box-shadow: 0px 4px 0px #181818;
+    border-left:solid 10px #000;
+    border-right:solid 10px #000;
+    border-bottom:solid 10px #262626;
+    float:center;
+    text-align:center;
+    -webkit-box-shadow: 0px 10px 15px #000000;
+    -moz-box-shadow: 0px 10px 15px #000000;
+    box-shadow: 0px 10px 15px #000000;
+}; 
+    background: -moz-linear-gradient(top, black 0%,#000033 100%); 
+    background: -webkit-gradient(linear,center, center , color-stop(0%,black), color-stop(100%,#000033)); 
+    border-radius:20px;
+    -moz-border-radius: 15px;
+    line-height:200px;/*tamaño de los numeros */
+    color:red;/*colorde los numeros*/
+    position:center;/*alinear los numeros*/
+    font-size: 100px; /*ancho de los numeros*/
+    font-weight:bold;/*estilo de los numeros*/
+    height:100px;
+    width:100px;
+    margin: 5px;
+    -webkit-box-shadow: 0px 4px 0px #181818;
+    border-left:solid 1px #000;
+    border-right:solid 1px #000;
+    border-bottom:solid 1px #262626;
+    float:left;
+    text-align:center;
+    -webkit-box-shadow: 0px 10px 15px #000000;
+    -moz-box-shadow: 0px 10px 15px #000000;
+    box-shadow: 0px 10px 15px #000000;
+}<script src="http://hostredeando.ucoz.es/js/prefixfree.js" type="text/javascript"></script>
+
+
+<style>
+.container {
+ padding: 20px;width: 400px;
+ text-align: center;
+}
+
+.timer {
+ padding: 10px;
+ background: #000000;
+ overflow: hidden;
+ display: inline-block;
+ border: 7px solid #efefef;
+ border-radius: 5px;
+ position: relative;
+box-shadow:
+  0 -2px 10px 1px rgba(0, 0, 0, 0.75),
+  0 5px 20px -10px rgba(0, 0, 0, 1);
+
+}
+
+.cell {
+ width: 0.60em;
+ height: 40px;
+ font-size: 50px;
+ overflow: hidden;
+ position: relative;
+ float: left;
+}
+
+.numbers {
+ width: 0.6em;
+ line-height: 40px;
+ font-family: digital, arial, verdana;
+ text-align: center;
+ color: #fff;
+
+ position: absolute;
+ top: 0;
+ left: 0;
+
+
+ text-shadow: 0 0 5px rgba(255, 255, 255, 1);
+}
+
+#timer_controls {
+ margin-top: 5px;
+}
+#timer_controls label {
+ box-shadow:
+  0 -2px 10px 1px rgba(0, 0, 0, 0.75),
+  0 5px 20px -10px rgba(0, 0, 0, 1);
+
+cursor: pointer;
+ padding: 5px 10px;
+ background: #efefef;
+ font-family: arial, verdana, tahoma;
+ font-size: 11px;
+ border-radius: 0 0 3px 3px;border:1px solid #989293;
+}
+input[name="controls"] {display: none;}
+
+
+#stop:checked~.timer .numbers {animation-play-state: paused;}
+#start:checked~.timer .numbers {animation-play-state: running;}
+#reset:checked~.timer .numbers {animation: none;}
+
+.moveten {
+ /*The digits move but dont look good. We will use steps now
+ 10 digits = 10 steps. You can now see the digits swapping instead of
+ moving pixel-by-pixel*/
+ animation: moveten 1s steps(10, end) infinite;
+ /*By default animation should be paused*/
+ animation-play-state: paused;
+}
+.movesix {
+ animation: movesix 1s steps(6, end) infinite;
+ animation-play-state: paused;
+}
+
+.second {animation-duration: 10s;}
+.tensecond {animation-duration: 60s;} /*60 times .second*/
+
+.milisecond {animation-duration: 1s;} /*1/10th of .second*/
+.tenmilisecond {animation-duration: 0.1s;}
+.hundredmilisecond {animation-duration: 0.01s;}
+
+.minute {animation-duration: 600s;} /*60 times .second*/
+.tenminute {animation-duration: 3600s;} /*60 times .minute*/
+
+.hour {animation-duration: 36000s;} /*60 times .minute*/
+.tenhour {animation-duration: 360000s;} /*10 times .hour*/
+
+@keyframes moveten {
+ 0% {top: 0;}
+ 100% {top: -400px;}
+ /*height = 40. digits = 10. hence -400 to move it completely to the top*/
+}
+
+@keyframes movesix {
+ 0% {top: 0;}
+ 100% {top: -240px;}
+ /*height = 40. digits = 6. hence -240 to move it completely to the top*/
+}
+
+@font-face {
+ font-family: 'digital';
+ src: url('http://thecodeplayer.com/uploads/fonts/DS-DIGI.TTF');
+
+</style>
+

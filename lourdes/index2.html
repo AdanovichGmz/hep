@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<style type="text/css">
+#apDiv1 {
+	position: absolute;
+	width: 207px;
+	height: 84px;
+	z-index: 1;
+	left: 21px;
+	top: 2057px;
+}
+.blanco {
+	color: #FFF;
+}
+.BLANCO {
+	color: #FFF;
+}
+</style>
+
+</head>
+<body>
+<h1><img src="logo.png" width="343" height="147"/></h1>
+    <hr size="5"/>
+	<section id="contenedor">
+<form action="#" method="POST" enctype="multipart/form-data">
+    <table id="formularioSubida" border="0">
+        <thead>
+            <th>Elige los archivos que quieras subir</th>
+        </thead>
+        <tr>
+            <td>
+                <div class="inputImagenModificado">
+                    <input class="inputImagenOculto" name="imagen1" type="file">
+                    <div class="inputParaMostrar">
+                        <input>
+                        <img src="imagenes/button_select2.gif">
+                    </div>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <td> 
+                <input type="button" id="botonAnnadir" onClick="agregarFila('formularioSubida','botonAnnadir')" value="Añadir archivo" style="width:138px;">        
+                <input type="submit" name="botonSubir" value="Subir"> 
+            </td>
+        </tr>
+    </table>
+</form>
+
+<div>
+<div>
+<p>
+<h1><a href="EnviaLista.html">Enviar Archivo</a><br /></h1>
+<!-- "  <a href="verinfo.php">Ver info </a>		--></div>
+
+<!-- "  <a href="verinfo.php">Ver info </a>		--></div>
+</p>
+<div></div>
+</div>
+</body>
+</html>
+
+
+
+
+

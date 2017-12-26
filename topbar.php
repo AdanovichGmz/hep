@@ -251,8 +251,8 @@ ul{
                     <a href="#">Mostrador</a>
                     <input type="checkbox" id="drop-1"/>
                     <ul id="sec-ul">
-                        <li class="sec-level"><a href="../ventas/">Punto de Venta</a></li>
-                        <li class="sec-level"><a href="movimientos.php">Movimientos</a></li>
+                        <li class="sec-level"><a href="ventas/">Punto de Venta</a></li>
+                        <li class="sec-level"><a href="ventas/movimientos.php">Movimientos</a></li>
                         
                     </ul> 
 
@@ -264,10 +264,10 @@ ul{
                 <a href="#">Listas</a>
                 <input type="checkbox" id="drop-2"/>
                 <ul id="sec-ul">
-                    <li class="sec-level"><a href="info.php">Info</a></li>
-                    <li class="sec-level"><a href="productos.php">Productos</a></li>
-                    <li class="sec-level"><a href="invitaciones.php">Invitaciones</a></li>
-                    <li class="sec-level"><a href="files.php">Archivos</a></li>
+                    <li class="sec-level"><a href="ventas/info.php">Info</a></li>
+                    <li class="sec-level"><a href="ventas/productos.php">Productos</a></li>
+                    <li class="sec-level"><a href="ventas/invitaciones.php">Invitaciones</a></li>
+                    <li class="sec-level"><a href="ventas/files.php">Archivos</a></li>
                   <!--   <li>
 
                     Second Tier Drop Down        
@@ -290,9 +290,9 @@ ul{
                 <a href="#">Facturas</a>
                 <input type="checkbox" id="drop-3"/>
                 <ul id="sec-ul">
-                    <li class="sec-level"><a href="facturas.php">Realizadas</a></li>
+                    <li class="sec-level"><a href="ventas/facturas.php">Realizadas</a></li>
                     <li class="sec-level"><a href="#">Pendientes</a></li>
-                    <li class="sec-level"><a href="../facturacion/">De cliente</a></li>
+                    <li class="sec-level"><a href="facturacion/">De cliente</a></li>
                     <li class="sec-level"><a href="#">Empresariales</a></li>
                   <!--   <li>
                    
@@ -309,10 +309,10 @@ ul{
                     </li>  --> 
                 </ul>
                 </li>
-                <li class="exit" class="first-level"><a href="../logout.php">Salir</a></li>
+                <li class="exit" class="first-level"><a href="logout.php">Salir</a></li>
                 
             </ul>
-            <a href="../logout.php" class="exitpc">Salir</a>
+            <a href="logout.php" class="exitpc">Salir</a>
         </nav>
 
 

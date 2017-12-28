@@ -117,6 +117,37 @@ $mysqli->close();
 $mysqli->close();
 
 }
+elseif ($page=='info') {
+      require('../conexion/conexionInfo.php');
+      $tienda=strtoupper($_SESSION['nom_tienda']);
+      
+      $query = "SELECT * FROM info WHERE IdPedido LIKE '%".$_POST["param"]."%' AND Tienda='$tienda' OR NodeOrden AND Tienda='$tienda' LIKE '%".$_POST["param"]."%' AND Tienda='$tienda' OR FechaPedido LIKE '%".$_POST["param"]."%' AND Tienda='$tienda' OR ClaveCliente LIKE '%".$_POST["param"]."%' AND Tienda='$tienda' OR FechaEntregaCliente LIKE '%".$_POST["param"]."%' AND Tienda='$tienda'  LIMIT 0,500";
+      $getinv=$mysqli->query($query);
+      while ($row=mysqli_fetch_assoc($getinv)) {
+?>
+<tr>
+                        <td><?=$row['IdPedido'] ?></td>
+                        <td > <?= $row['NodeOrden'];?></td>
+                        <td >    <?= $row['FechaPedido'];?>      </td>
+                        
+                        <td >    <?=$row['ClaveCliente']; ?>  </td>
+                        <td >    <?=$row['VentaTotal']; ?>   </td>
+                        
+                        <td >    <?= $row['PagosTotales'];?> </td>
+                        <td >    <?= $row['ImporteDebido'];?> </td>
+                        <td >  <?= $row['Tipo'];?> </td>
+                        <td >  <?= $row['Estado'];?></td>
+                        <td >  <?= $row['FechaEntregaCliente'];?></td>
+                        <td > <img class="palomitas" src="<?=($row['Autorizado']=='FALSO')? '../images/off.png':'../images/on.png' ;?>"></td>
+                        <td ><img class="palomitas" src="<?=($row['EntregasProduccion']=='FALSO')? '../images/off.png':'../images/on.png' ;?>"></td>
+                        
+                        <td ><?=$row['Tienda']; ?></td>
+  </tr>
+<?php
+      }
+$mysqli->close();
+
+}
 //require("../conexion/conexion.php");
 
 

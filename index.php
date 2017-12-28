@@ -5,7 +5,13 @@ if( !session_id() )
 }
 $logged=(isset($_SESSION['logged']))? $_SESSION['logged'] : false;
 if($logged){
-   header('Location:http:'.dirname($_SERVER['PHP_SELF']).'/dashboard.php');
+    if ($_SESSION['area']=='ventas') {
+       header('Location:http:'.dirname($_SERVER['PHP_SELF']).'/dashboard.php');
+    }elseif ($_SESSION['area']=='victor') {
+       header('Location:http:'.dirname($_SERVER['PHP_SELF']).'/victor/');
+    }
+   
+
 }else{
     ?>
 

@@ -19,39 +19,7 @@ if (!$logged){
       {
        $start=$limit*($page-1);
       }
-      $t=(isset($_SESSION['tienda']))?$_SESSION['tienda']:'';
-        switch ($t) {
-            case '1':
-               $tienda='ALTAVISTA';
-                break;
-            case 'l1p5':
-               $tienda='LIVERPOOL-PS';
-                break;
-                case 'l1vp00pu3':
-               $tienda='LIVERPOOL-PUE';
-                break;
-                case 'l1vp0054t':
-               $tienda='LIVERPOOL-SAT';
-                break;
-                case 'l1vp005f':
-               $tienda='LIVERPOOL-SF';
-                break;
-                case 'p0l4nc0':
-               $tienda='POLANCO';
-                break;
-                case '54nt4f3':
-               $tienda='SANTA FE';
-                break;
-                case '54t3l1t3':
-               $tienda='SATELITE';
-                break;
-                case 'v3r4c0z':
-               $tienda='VERACRUZ';
-                break;
-            default:
-                $tienda='Prueba';
-                break;
-              }
+     $tienda=strtoupper($_SESSION['nom_tienda']);
 
         $query3="SELECT * FROM info WHERE Tienda='".$tienda."' limit  $start , $limit";
     
@@ -287,7 +255,7 @@ $(document).on('keyup', '#searcher', function () {
    $.ajax({  
            type:"POST",
            url:"pagesSearch.php",   
-          data:{param:parameter,page:'billing'},  
+          data:{param:parameter,page:'info'},  
           success:function(data){ 
            $('#inv-body').html(data);
           }  

@@ -555,7 +555,7 @@ z-index: 999999;
 <a href="#" class="navlogo"></a>
   <a href="#home">Portal de Victor</a>
   
-  <a href="logout.php" class="exit">Salir</a>
+  <a href="../logout.php" class="exit">Salir</a>
   <a href="javascript:void(0);" style="font-size:15px;" class="icon" onclick="myFunction()">&#9776;</a>
 </div>
 

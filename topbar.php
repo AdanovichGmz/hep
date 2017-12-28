@@ -237,22 +237,23 @@ ul{
 
 }
 </style>
-
+<?php $path='http://'.$_SERVER["SERVER_NAME"].dirname($_SERVER["REQUEST_URI"]).'/'; 
+define("BASE_URL","http://".$_SERVER["SERVER_NAME"]."/henpapel.com/");?>
         <nav id="navbar">
-        <div id="logo"><img src="images/white-logo.png">  <label for="drop" class="toggle burger">☰</label></div>
+        <div id="logo"><img src="<?= BASE_URL ;?>images/white-logo.png">  <label for="drop" class="toggle burger">☰</label></div>
 
        
         <input type="checkbox" id="drop" />
             <ul id="first-ul" class="menu">
-                <li class="first-level"><a href="#">Inicio</a></li>
+                <li class="first-level"><a href="<?= BASE_URL ;?>/">Inicio</a></li>
                 <li class="first-level">
                    
                     <label for="drop-1" class="toggle">Mostrador +</label>
                     <a href="#">Mostrador</a>
                     <input type="checkbox" id="drop-1"/>
                     <ul id="sec-ul">
-                        <li class="sec-level"><a href="ventas/">Punto de Venta</a></li>
-                        <li class="sec-level"><a href="ventas/movimientos.php">Movimientos</a></li>
+                        <li class="sec-level"><a href="<?= BASE_URL ;?>ventas/">Punto de Venta</a></li>
+                        <li class="sec-level"><a href="<?= BASE_URL ;?>ventas/movimientos.php">Movimientos</a></li>
                         
                     </ul> 
 
@@ -264,10 +265,10 @@ ul{
                 <a href="#">Listas</a>
                 <input type="checkbox" id="drop-2"/>
                 <ul id="sec-ul">
-                    <li class="sec-level"><a href="ventas/info.php">Info</a></li>
-                    <li class="sec-level"><a href="ventas/productos.php">Productos</a></li>
-                    <li class="sec-level"><a href="ventas/invitaciones.php">Invitaciones</a></li>
-                    <li class="sec-level"><a href="ventas/files.php">Archivos</a></li>
+                    <li class="sec-level"><a href="<?= BASE_URL ;?>ventas/info.php">Info</a></li>
+                    <li class="sec-level"><a href="<?=BASE_URL ;?>ventas/productos.php">Productos</a></li>
+                    <li class="sec-level"><a href="<?= BASE_URL ;?>ventas/invitaciones.php">Invitaciones</a></li>
+                    <li class="sec-level"><a href="<?= BASE_URL ;?>ventas/files.php">Archivos</a></li>
                   <!--   <li>
 
                     Second Tier Drop Down        
@@ -290,9 +291,9 @@ ul{
                 <a href="#">Facturas</a>
                 <input type="checkbox" id="drop-3"/>
                 <ul id="sec-ul">
-                    <li class="sec-level"><a href="ventas/facturas.php">Realizadas</a></li>
+                    <li class="sec-level"><a href="<?= BASE_URL ;?>ventas/facturas.php">Realizadas</a></li>
                     <li class="sec-level"><a href="#">Pendientes</a></li>
-                    <li class="sec-level"><a href="facturacion/">De cliente</a></li>
+                    <li class="sec-level"><a href="<?= BASE_URL ;?>facturacion/">De cliente</a></li>
                     <li class="sec-level"><a href="#">Empresariales</a></li>
                   <!--   <li>
                    
@@ -309,10 +310,10 @@ ul{
                     </li>  --> 
                 </ul>
                 </li>
-                <li class="exit" class="first-level"><a href="logout.php">Salir</a></li>
+                <li class="exit" class="first-level"><a href="<?= BASE_URL ;?>logout.php">Salir</a></li>
                 
             </ul>
-            <a href="logout.php" class="exitpc">Salir</a>
+            <a href="<?=BASE_URL ;?>logout.php" class="exitpc">Salir</a>
         </nav>
 
 

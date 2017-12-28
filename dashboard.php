@@ -12,6 +12,7 @@ body {
 	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 	}
 
+
 #apDiv1 {
 	position: absolute;
 	width: 207px;
@@ -45,6 +46,7 @@ body {
 .sistem{
 	background: #D35058;
 }
+
 .cliente{
 	background: #C62127;
 }
@@ -69,6 +71,10 @@ body {
 .reporte{
 	background:#1464A9;
 }
+.empty{
+	background: #ccc;
+	display: none;
+}
 .b-image{
 	width: 100%;
 	height: 150px;
@@ -90,7 +96,7 @@ body {
 	background-size: contain;
 }
 .sistem-i:hover{
-	background-image: url(images/hhsistema.png);
+	background-image: url(images/hsistema.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
@@ -123,11 +129,19 @@ body {
 	background-repeat: no-repeat;
 	background-size: contain;
 }
+.pedido-i:hover{
+	background-image: url(images/hpedido.png);
+	
+}
 .autoriza-i{
 	background-image: url(images/autoriza.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+}
+.autoriza-i:hover{
+	background-image: url(images/hautoriza.png);
+
 }
 .recibo1-i{
 	background-image: url(images/recibo1.png);
@@ -135,11 +149,19 @@ body {
 	background-repeat: no-repeat;
 	background-size: contain;
 }
+.recibo1-i:hover{
+	background-image: url(images/hrecibo1.png);
+	
+}
 .recbo2-i{
 	background-image: url(images/recbo2.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+}
+.recbo2-i:hover{
+	background-image: url(images/hrecbo2.png);
+	
 }
 .corte-i{
 	background-image: url(images/corte.png);
@@ -147,11 +169,19 @@ body {
 	background-repeat: no-repeat;
 	background-size: contain;
 }
+.corte-i:hover{
+	background-image: url(images/hcorte.png);
+	
+}
 .reporte-i{
 	background-image: url(images/reporte.png);
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: contain;
+}
+.reporte-i:hover{
+	background-image: url(images/hreporte.png);
+	
 }
 .separatorline{
 	width: 100%;
@@ -172,23 +202,29 @@ body {
     text-align: center;
     display: inline-block;
 }
+.icon img{
+width: 20px;
+margin-right:  10px;
+margin-bottom: -2px;
+}
 .links a{
 	text-decoration: none;
 }
 .links div{
-
+	background: #29B679;
 	width: 180px;
 	height: 60px;
-	margin: 20px auto;
+	margin: 60px auto;
 	line-height: 60px;
 	font-size: 17px;
-	color: #272B34;
-	border: dashed 1px #E6E8E7;
+	color: #fff;
+	border-radius: 3px;
+	
 }
 .links div:hover{
-	background: #272B34;
+	background: #176342;
 	color: #fff;
-	border:solid 1px #1F242A;
+	
 }
 .justif{
 	max-width: 800px; margin:0 auto;text-align: left;position: relative;
@@ -221,10 +257,10 @@ body {
 <div class="tutorials">
 <div class="justif" style="margin-top: 20px;">
 	<div class="links" style="margin-right: 5px;">
-		<a href="EnviaArchivo.html"><div>Enviar Archivo</div></a>
+		<a href="uploads/"><div class="f1"><i class="icon"><img src="images/upfile.png"></i>Enviar Archivo</div></a>
 	</div><div class="links" style="margin-left: : 5px;">
 	
-		<a href="EnviaLista.html"><div>Enviar Lista</div></a>
+		<a href="uploads/uploadList.php"><div class="f2"><i class="icon"><img src="images/uplist.png"></i>Enviar Lista</div></a>
 	</div>
 </div>
 </div>
@@ -287,6 +323,13 @@ body {
 	</div>
 	</a>
 	
+	</div><div class="tuto empty">
+	<a href="#" target="_black">
+		<div class="b-image empty-i">
+	<h1>...</h1>
+	</div>
+	</a>
+	
 	</div>
 </div>
 	
@@ -320,5 +363,6 @@ body {
 <div></div>
 </div>
 </div></section>
+
 </body>
 </html>

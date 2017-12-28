@@ -39,6 +39,63 @@ body {
 
 }
 
+.inputfile{
+  width: 100%;
+  position: relative;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+.filename{
+  width: 70%;
+  display: inline-block;
+  text-align: center;
+  height: 37px;
+  line-height: 37px;
+  border-left: solid 1px #7864AC;
+  border-top: solid 1px #7864AC;
+  border-bottom: solid 1px #7864AC;
+  color:#808080;
+  box-sizing: border-box
+}
+.filebutton{
+  width: 30%;
+  display: inline-block;
+  text-align: center;
+  height: 37px;
+  background:#7864AC;
+  color:#fff;
+  line-height: 37px;
+  cursor: pointer;
+   border-top: solid 1px #7864AC;
+   border-bottom: solid 1px #7864AC;
+   border-right: solid 1px #7864AC;
+   box-sizing: border-box
+}
+.filebutton:hover{
+  background: #0E4270;
+}
+.login-inner textarea{
+  border: solid 1px #ccc;
+    width: 100%;
+    border-radius: 2px;
+    padding: 5px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 15px;
+    font-family: "monse-light";
+     resize: none; 
+}
+.form-inner textarea{
+  border: solid 1px #ccc;
+    width: 100%;
+    border-radius: 2px;
+    padding: 5px;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 15px;
+    font-family: "monse-light";
+     resize: none; 
+}
 
 .login-box{
     width:580px;
@@ -161,6 +218,13 @@ box-shadow:         2px 2px 3px 0px rgba(50, 50, 50, 0.61);
     width: 90%;
     margin: 0 auto;
     min-height: 556px;
+    height: 100%;
+    
+}
+.form-inner{
+    width: 90%;
+    margin: 0 auto;
+    
     height: 100%;
     
 }

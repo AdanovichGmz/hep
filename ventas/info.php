@@ -110,7 +110,7 @@ if (!$logged){
   </style>
 </head>
 <body>
-<?php include('topbar.php'); ?>
+<?php include('../topbar.php'); ?>
 
 <div style="padding-left:16px">
  

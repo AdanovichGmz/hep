@@ -41,7 +41,7 @@ if (!$logged) {
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
 </head>
 <body>
-<?php include('topbar.php'); ?>
+<?php include('../topbar.php'); ?>
 
 <div style="padding-left:16px">
  
